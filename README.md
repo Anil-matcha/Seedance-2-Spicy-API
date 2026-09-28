@@ -262,7 +262,7 @@ Cost-efficient mini-tier reference-driven generation. Reference images with `@im
 | Seedance 2 Mini Spicy Image-to-Video | $0.22 / generation |
 | Seedance 2 Mini Spicy Omni Reference | $0.75 / generation |
 
-Pricing is illustrative and subject to change — check [muapi.ai/seedance-2](https://muapi.ai/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-spicy-api) for current rates.
+Pricing is illustrative and subject to change — check [muapi.ai/seedance-2.5-spicy](https://muapi.ai/seedance-2.5-spicy?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-spicy-api) for current rates.
 
 ---
 
@@ -286,7 +286,7 @@ Pricing is illustrative and subject to change — check [muapi.ai/seedance-2](ht
 ---
 
 ## 🔗 Official Resources
-- **Landing page**: [Seedance 2 on MuAPI](https://muapi.ai/seedance-2?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-spicy-api)
+- **Landing page**: [Seedance Spicy on MuAPI](https://muapi.ai/seedance-2.5-spicy?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-spicy-api)
 - **Playground**: [Text-to-Video](https://muapi.ai/playground/seedance-2-spicy-text-to-video?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-spicy-api) · [Image-to-Video](https://muapi.ai/playground/seedance-2-spicy-image-to-video?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-spicy-api)
 - **Access Keys**: [muapi.ai/access-keys](https://muapi.ai/access-keys?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-spicy-api)
 - **API Reference**: [muapi.ai/docs/api-reference](https://muapi.ai/docs/api-reference?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-spicy-api)
